@@ -53,3 +53,17 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSModernWorkspace
+.Spotlight-V100
+.Trashes
+.VolumeIcon.icns
+.fseventsd
+.TemporaryItems
+*/.DS_Store
+*/.AppleDouble
+*/.Spotlight-V100
+*/.Trashes
